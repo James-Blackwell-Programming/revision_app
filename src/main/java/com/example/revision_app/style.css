@@ -1,0 +1,6 @@
+#BOTTOM_BUTTON_BAR{
+    -fx-display: flex;
+    flex-direction: row;
+    -fx-justify-content: center;
+    -fx-background-color: red;
+}
